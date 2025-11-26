@@ -1,0 +1,42 @@
+```
+# Зависимости
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+.env
+.env.local
+*.env.*
+
+# Логи
+*.log
+
+# Coverage
+.coverage
+coverage/
+htmlcov/
+
+# Тесты
+.pytest_cache/
+.mypy_cache/
+
+
+dist/
+build/
+*.egg-info/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Редакторы/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
